@@ -92,7 +92,7 @@ As a student, I’m eager to apply my academic knowledge to real-world challenge
   <a href="https://twitter.com/navodya_dev" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="[https://portfolio.navodya.dev](https://v0-navodya-portfolio-website.vercel.app/)" target="_blank">
+  <a href="https://portfolio.navodya.dev](https://v0-navodya-portfolio-website.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF6347?style=flat-square&logo=web&logoColor=white" alt="Portfolio" />
   </a>
 </div>
