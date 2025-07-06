@@ -89,7 +89,7 @@ As a student, I’m eager to apply my academic knowledge to real-world challenge
   <a href="mailto:navodyamanamendra@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://v0-navodya-portfolio-website.vercel.app/" target="https://v0-navodya-portfolio-website.vercel.app/">
+  <a href="https://manamendrajn.github.io/NavodyaPortfolio/" target="https://manamendrajn.github.io/NavodyaPortfolio/">
     <img src="https://img.shields.io/badge/Portfolio-FF6347?style=flat-square&logo=web&logoColor=white" alt="Portfolio" />
   </a>
 </div>
