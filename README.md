@@ -101,3 +101,8 @@ As a student, I’m eager to apply my academic knowledge to real-world challenge
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=manamendrajn&theme=react-dark&hide_border=true&color=1E90FF&line=FF6347&point=D3D3D3" alt="Contribution Graph" style="max-width: 100%;" />
 </div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=manamendrajn&label=Profile%20Views&color=1E90FF&style=flat-square" alt="Profile Views" />
+</p>
+
